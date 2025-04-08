@@ -8,4 +8,5 @@ A repository with the express purpose of tracking and managing tasks and events.
 ### Or take a look at this year's [Executive Board](https://github.com/orgs/URI-Alpine/teams/eboard-2026)
   By using the teams feature we can organize members of the repo, allowing different permissions to different people and roles
 
-
+### There is also a [Discussion Section](https://github.com/URI-Alpine/Ski_n_Board2026/discussions)
+  In the Discussion section you can create an open dialogue about a topic, task, issue or event. With the ability to reference these discussions in project tasks, it should prove to be a useful feature!
