@@ -1,5 +1,6 @@
-# Ski & Board 2026 Repository:
-A repository with the express purpose of tracking and managing tasks and events.
+# Ski & Board 2026 Repository Guide:
+The Ski & Bord Repo exists with the express purpose of tracking and managing tasks and events.
+Below is a shining a spotlight on some of the top tools in the repo.
 
 ## There is much to do and explore in this Repository!
 ### Check out the [Project Section](https://github.com/orgs/URI-Alpine/projects/1/views/1)
